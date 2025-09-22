@@ -1,5 +1,5 @@
 streamlit
-pytwitter
+pytwitter==0.7.0
 openai
 pandas
 python-dotenv
