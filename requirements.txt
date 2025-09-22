@@ -1,5 +1,5 @@
-streamlit==1.36.0
-pytwitter==0.7.0
+streamlit
+pytwitter
 openai
 pandas
 python-dotenv
