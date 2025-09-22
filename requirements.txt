@@ -1,0 +1,6 @@
+streamlit
+pytwitter
+openai
+pandas
+python-dotenv
+openpyxl

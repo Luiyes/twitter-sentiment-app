@@ -1,0 +1,14 @@
+# Ignorar el archivo con credenciales
+.env
+
+# Ignorar carpetas temporales de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos de compilación/ejecutables
+*.exe
+*.spec
+
+# Ignorar entornos virtuales
+venv/
+.env/
