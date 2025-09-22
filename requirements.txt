@@ -1,5 +1,5 @@
 streamlit
-pytwitter
+tweepy
 openai
 pandas
 python-dotenv
